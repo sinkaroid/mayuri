@@ -1,0 +1,12 @@
+{
+    "name": "bib/mayushiweather",
+    "description": "prakiraan cuaca mayushii",
+    "license": "APACHE",
+    "authors": [
+        {
+            "name": "sinkaroid",
+            "email": "bibsindra@gmail.com"
+        }
+    ],
+    "require": {}
+}
